@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"A",
+				"Algoritma"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"total",
+				"total"
+			],
+			[
+				"f",
+				"f"
+			],
+			[
+				"d",
+				"d"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "profile.html",
+			"settings":
+			{
+				"buffer_size": 2350,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/#16.11.0525/styleprof.css",
+		"/D/#16.11.0525/gaya.css",
+		"/D/17.11.1143/test3.cpp",
+		"/D/17.11.1143/tesr2.cpp",
+		"/D/17.11.1143/test1.cpp",
+		"/D/17.11.1624/Program02.c",
+		"/D/17.11.1624/Program09.c",
+		"/D/17.11.1624/Program08.c",
+		"/D/17.11.1624/Program07.c",
+		"/D/17.11.1624/Program06.c",
+		"/D/17.11.1624/Program05.c",
+		"/D/17.11.1624/Program04.c",
+		"/D/17.11.1624/Program03.c",
+		"/D/ALPRO2017/17.11.1266/041017/sampel.c",
+		"/D/ALPRO2017/17.11.1266/041017/input2.c",
+		"/D/ALPRO2017/17.11.1266/041017/input.c",
+		"/D/ALPRO2017/17.11.1425/jeruk.c",
+		"/D/ALPRO2017/17.11.1425/input1.c",
+		"/D/ALPRO2017/17.11.1398/diskon.c",
+		"/D/ALPRO2017/17.11.1398/input3.c",
+		"/D/ALPRO2017/17.11.1398/input1.c",
+		"/D/ALPRO2017/17.11.1425/input3.c",
+		"/D/ALPRO2017/17.11.1398/input2.c"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "profile.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								201
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "styleprof.css",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
