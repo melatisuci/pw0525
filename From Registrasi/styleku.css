@@ -1,0 +1,86 @@
+
+.wraper-login{
+	margin: 0px auto 0px auto;
+	width: 70%;
+	padding-top: 50px;
+
+}
+.box-login{
+	margin: 0px auto 0px auto;
+	width: 25%;
+	text-align: center;
+}
+.panel-login{
+	background: salmon;
+	color: black;
+	padding: 10px;
+	border-radius: 5px 5px 0px 0px;
+}
+.body{
+	padding-top:10px;
+	padding-bottom: 10px;
+}
+.border{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ddd;
+}
+.form{
+	width:100%;
+	padding:5px;
+	border: 1px solid #fff;
+}
+.form:hover{
+	border-bottom:1px solid #1e90ff;
+
+}
+
+
+.text.kanan{
+	text-align: right;
+	padding-top: 10px;
+	padding: 5px;
+}
+.Regist{
+	padding-top:5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	cursor: pointer;
+	background: pink;
+	color:#fff;
+	border: 1px solid #1111e1;
+	border-radius:5px;
+}
+.Regist:hover{
+	background: #salmon;
+	border: 1px solid #6deff1;
+	}
+
+
+
+.text.kiri{
+	text-align: left;
+	padding-top: 15px;
+	padding: 5px;
+	}
+
+.login{
+	padding-top:5px;
+	padding-bottom: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	cursor: pointer;
+	background: pink;
+	color:#fff;
+	border: 1px solid #1111e1;
+	border-radius:5px;
+}
+.login:hover{
+	background: #salmon;
+	border: 1px solid #6deff1;
+
+}
+body{
+	background: #grey;
+}
